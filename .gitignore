@@ -1,0 +1,7 @@
+.vscode/
+*.exe
+Input.in
+Output.in
+Input.txt
+Output.txt
+.cph/
