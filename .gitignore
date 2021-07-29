@@ -1,5 +1,6 @@
 .vscode/
 *.exe
+*.class
 Input.in
 Output.in
 Input.txt
